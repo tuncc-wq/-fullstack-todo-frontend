@@ -1,0 +1,18 @@
+# Full-Stack Todo App
+
+A full-stack todo app with user authentication and real-time task management.
+
+## Live Demo
+https://fullstack-todo-frontend-iota.vercel.app
+
+## Tech Stack
+- Frontend: React
+- Backend: Node.js + Express
+- Auth: JWT + bcrypt
+- Deployed: Vercel (frontend) + Railway (backend)
+
+## Features
+- Register and login securely
+- Add, complete, and delete tasks
+- Tasks saved per user account
+- Fully deployed and live
